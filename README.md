@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**cyxtion/cyxtion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="cyx.gif" width="100%" style="border-radius: 10px; border: 2px solid #39ff14;" />
 
-Here are some ideas to get you started:
+  <br />
+  <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=500&lines=CYXTION+LABS+FOUNDER;LOW+LEVEL+EXPLOITATION;MALWARE+DEVELOPMENT;REVERSE+ENGINEERING;AI+%2F+ML+SECURITY" alt="Typing SVG" />
+  </a>
+
+  <br />
+
+  <p>
+    <a href="https://linkedin.com/in/mayankrajgeet">
+      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:mayankrajgeet@gmail.com">
+      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://cyxtion-portfolio.pages.dev/">
+      <img src="https://img.shields.io/badge/Cyxtion_Labs-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=cyan" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 💀 **// SYSTEM_OVERRIDE: INITIATED**
+
+```bash
+user@cyxtion:~$ ./whoami --verbose
+
+> IDENTITY:    Mayank Rajgeet
+> CLASS:       Founder & Security Researcher
+> ORG:         Cyxtion Labs
+> TARGETS:     Reverse Engineering, Malware Analysis, Low-Level Systems
+> CURRENT_OP:  Building advanced security tools & AI-driven threat detection
